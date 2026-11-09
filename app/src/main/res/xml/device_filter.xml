@@ -1,0 +1,4 @@
+<resources>
+ <!-- FTDI vendor 0x0403. Actual supported products are checked by usb-serial-for-android before opening. -->
+ <usb-device vendor-id="1027" />
+</resources>
